@@ -3,9 +3,13 @@ layout: post
 title: Dal prompt agli agenti (Parte 2)
 date: 2024-02-06
 image: https://www.denofgeek.com/wp-content/uploads/2021/12/the-matrix-resurrections-agent-smith-hugo-weaving.jpg?fit=1600%2C1067
-description: Scopri come gli agenti AI stanno rivoluzionando il mondo dell'automazione, aprendo nuove possibilità in campi che vanno dalla robotica alla gestione dei dati. Immergiti nell'evoluzione degli agenti AI, dalla loro nascita ai recenti sviluppi in tecnologie come Chat GPT e Large Language Models. Non perdere l'opportunità di esplorare come l'intelligenza artificiale sta trasformando il futuro dell'automazione con soluzioni innovative e accessibili.
+excerpt:
 ---
-Elevare le capacità di un agente per renderlo non solo in grado di generare query SQL, ma anche di eseguirle e restituire i risultati, rappresenta un salto qualitativo nella sua utilità e complessità. Questo avanzamento apre la strada a un'automazione più sofisticata e a interazioni più ricche con i database, senza la necessità di intervento umano per la trascrizione e l'esecuzione delle query.
+Proseguendo il nostro viaggio nell'esplorazione delle frontiere dell'intelligenza artificiale, questa seconda puntata si addentrerà nelle nuove dimensioni di autonomia e efficienza che gli agenti AI stanno raggiungendo, trasformando radicalmente il modo in cui interagiamo con i dati e le tecnologie. 
+
+ Elevare le capacità di un agente per renderlo non solo in grado di generare query SQL, ma anche di eseguirle e restituire i risultati, rappresenta un salto qualitativo nella sua utilità e complessità. Questo avanzamento apre la strada a un'automazione più sofisticata e a interazioni più ricche con i database, senza la necessità di intervento umano per la trascrizione e l'esecuzione delle query.
+
+Per realizzare questo obiettivo è molto importante 
 
 Per realizzare questo obiettivo, è fondamentale che l'agente produca risposte formattate secondo uno standard preciso. Questo approccio consente di interpretare e utilizzare l'output direttamente nel codice, automatizzando l'esecuzione delle query. Un esempio di prompt che potrebbe essere utilizzato per generare una query SQL, assicurandosi che l'output sia esclusivamente la query stessa, potrebbe essere:
 

@@ -3,7 +3,7 @@ layout: post
 title: Dal prompt agli agenti (Parte 1)
 date: 2024-02-06
 image: https://cdn.mos.cms.futurecdn.net/QRb9NDmmumKoiLz3TBwjGW-1200-80.png
-description: Scopri come gli agenti AI stanno rivoluzionando il mondo dell'automazione, aprendo nuove possibilità in campi che vanno dalla robotica alla gestione dei dati. Immergiti nell'evoluzione degli agenti AI, dalla loro nascita ai recenti sviluppi in tecnologie come Chat GPT e Large Language Models. Non perdere l'opportunità di esplorare come l'intelligenza artificiale sta trasformando il futuro dell'automazione con soluzioni innovative e accessibili.
+excerpt: Scopri come gli agenti AI stanno rivoluzionando il mondo dell'automazione, aprendo nuove possibilità in campi che vanno dalla robotica alla gestione dei dati. Immergiti nell'evoluzione degli agenti AI, dalla loro nascita ai recenti sviluppi in tecnologie come Chat GPT e Large Language Models. Non perdere l'opportunità di esplorare come l'intelligenza artificiale sta trasformando il futuro dell'automazione con soluzioni innovative e accessibili.
 ---
 Gli agenti nell'intelligenza artificiale (AI) rappresentano entità software o hardware capaci di agire autonomamente in un ambiente per raggiungere determinati obiettivi. Questi agenti possono percepire l'ambiente attraverso sensori e agire su di esso mediante attuatori (o strumenti). La loro importanza risiede nella capacità di automatizzare compiti, prendere decisioni in tempo reale e adattarsi a situazioni nuove o inaspettate, migliorando così l'efficienza e l'efficacia in vari campi applicativi, dalla robotica alla gestione dei dati, fino all'assistenza clienti.
 
