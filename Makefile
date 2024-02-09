@@ -16,6 +16,7 @@ shell:
 deploy:
 	docker compose run --rm jekyll jekyll build
 	scp -r ./_site proxyweb:/var/www/edelprino.com-$(TIMESTAMP)
+	ssh proxyweb "rm /var/www/edelprino.com"
 	ssh proxyweb "ln -sf /var/www/edelprino.com-$(TIMESTAMP) /var/www/edelprino.com"
 	# ssh proxyweb "ls -t ~/edelprino.com-* | tail -n +6 | xargs rm --"
 
