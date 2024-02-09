@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Automatizzo Cose
+title: Developer. Climber. Minimalist.
 ---

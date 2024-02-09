@@ -18,7 +18,7 @@ Lo sapevate, inoltre, che ci sono due vie di Deep Water Soloing di 6b e 6c/6c+ p
 - Località: Sestri Levante
 - Avvicinamento: 10 minuti dal parcheggio
 
-### Ghiffi
+### [Ghiffi](https://www.zenaclimbing.com/falesia/ciapun-lisciou)
 Il ghiffi è una placca appoggiata, si scala in spalmo e la tecnica la fa da padrone. Ci sono parecchie vie semplici, per iniziare, e tre tiri veramente interessanti che potrebbero mettere in crisi molti climber navigati.
 
 - Vie dal 5a al 7b
@@ -26,7 +26,7 @@ Il ghiffi è una placca appoggiata, si scala in spalmo e la tecnica la fa da pad
 - Località: Passo del Ghiffi, Montemoggio
 - Avvicinamento: 20 minuti dal parcheggio
 
-### Sopralacroce
+### [Sopralacroce](https://www.zenaclimbing.com/falesia/prato-sopralacroce)
 La falesietta di Sopralacroce ha una scalata tecnica e mai banale, anche i tirelli più facili possono riservare molte sorprese.
 
 - Vie dal 4c al 7a/b
@@ -46,7 +46,7 @@ Se sei interessato, su Nascio [ho scritto un articolo](https://www.zenaclimbing.
 
 ## Val D’Aveto
 
-### Farfablocco
+### [Farfablocco](https://www.zenaclimbing.com/falesia/farfablocco)
 Il farfablocco è una piccola falesietta situata a bordo strada tra il p.so della Forcella e Santo Stefano d'Aveto.
 
 - Vie dal 2a al 7a
@@ -56,7 +56,7 @@ Il farfablocco è una piccola falesietta situata a bordo strada tra il p.so dell
 
 ## Genova e dintorni
 
-### Pietragrande
+### [Pietragrande](https://www.zenaclimbing.com/falesia/pietragrande)
 Pietragrande è la palestrina all'aperto di molti genovesi. Falesia storica situata a pochi minuti di macchina da Bolzaneto.
 
 - Vie dal 4c al 7a
@@ -72,7 +72,7 @@ La falesia di Lautra si trova a S.Desiderio, a 10 minuti di macchina dal centro 
 - Località: S.Desiderio
 - Avvicinamento: 10 minuti dal parcheggio
 
-### La terrazza
+### [La terrazza](https://www.zenaclimbing.com/falesia/la-terrazza)
 La terrazza è una falesia situata alle spalle di Isola del Cantone. La roccia è conglomerato e i tiri sono prevalentemente boulderosi. La base non è comodissima ma alcuni tiri sono veramente interessanti e sfidanti!
 
 - Vie dal 6a all'8a+
