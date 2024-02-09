@@ -73,8 +73,6 @@ def sql_query_manager(request: str) -> str:
             }]
         )
 
-        print(response)
-
         if response.choices[0].finish_reason == "tool_calls":
             print(response.choices[0].message.tool_calls[0].function.arguments)
             arguments = json.loads(response.choices[0].message.tool_calls[0].function.arguments)
@@ -88,4 +86,4 @@ def sql_query_manager(request: str) -> str:
 
 Initially, we automated the generation of SQL queries, transforming desires into concrete SQL instructions. Subsequently, we extended automation to the execution of queries, completing the flow from "Desires" to "SQL Query" and finally to "Query Results."
 
-This represents the ideal path, but what happens if the agent generates an incorrect query? Can we make it correct itself? But above all, how do we move from a manager for SQL queries to a series of agents that perform complex tasks? These are some of the questions we will explore in part two. 
+This represents the ideal path, but what happens if the agent generates an incorrect query? Can we make it correct itself? But above all, how do we move from a manager for SQL queries to a series of agents that perform complex tasks? These are some of the questions we will explore in part two.
