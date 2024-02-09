@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Il mio sito personale
+title: Automatizzo Cose
 ---

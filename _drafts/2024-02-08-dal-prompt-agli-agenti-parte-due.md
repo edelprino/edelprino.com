@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Dal prompt agli agenti (Parte 2)
-date: 2024-02-06
+title: Dal prompt agli agenti (parte due)
+date: 2024-02-08
 image: https://wallpapercosmos.com/w/middle-retina/e/4/d/459659-2000x1125-desktop-hd-agent-smith-the-matrix-wallpaper.jpg
 excerpt: Scopri come gli agenti AI stanno rivoluzionando il mondo dell'automazione, aprendo nuove possibilità in campi che vanno dalla robotica alla gestione dei dati. Immergiti nell'evoluzione degli agenti AI, dalla loro nascita ai recenti sviluppi in tecnologie come Chat GPT e Large Language Models. Non perdere l'opportunità di esplorare come l'intelligenza artificiale sta trasformando il futuro dell'automazione con soluzioni innovative e accessibili.
 ---
-Inizialmente, abbiamo automatizzato la generazione delle query SQL, trasformando i desiderata in istruzioni SQL concrete. Successivamente, abbiamo esteso l'automazione all'esecuzione delle query, completando il flusso da "Desiderata" a "Query SQL" e infine ai "Risultati Query". 
-
-
 Questo rappresenta il percorso ideale, ma cosa accade se l'agente genera una query errata?
 
 Per affrontare questa eventualità, potremmo considerare di reintegrare ChatGPT nel processo, fornendogli un feedback completo: la richiesta iniziale, l'istruzione di eseguire la query e i risultati ottenuti. Questo approccio consentirebbe all'agente di valutare l'adeguatezza della query eseguita. Se la query fosse corretta, potrebbe semplicemente restituire i risultati; in caso contrario, avrebbe la possibilità di tentare una nuova query.
