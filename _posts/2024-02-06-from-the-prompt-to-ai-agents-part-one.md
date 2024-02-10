@@ -2,7 +2,7 @@
 layout: post
 title: From the Prompt to AI Agents (Part One)
 date: 2024-02-09
-image: https://fandomwire.com/wp-content/uploads/2020/09/matrix-4-agent-smith-1024x614.jpg
+image: https://ik.imagekit.io/edelprino/edelprino/blog/matrix-4-agent-smith-1024x614_I3h7cAr0P.webp?updatedAt=1707560286932
 excerpt: "Explore the AI revolution transforming automation: From simple prompts to sophisticated AI agents, see how technology is reshaping our approach to data and robotics. But when AI encounters its own errors, the real magic begins. Discover how in..."
 ---
 With the advent of Chat GPT and the expansion of the capabilities of Large Language Models (LLM), the world of artificial intelligence has begun to explore new frontiers, particularly the development of autonomous agents equipped with advanced reasoning abilities and capable of performing specific actions. This growing interest has led to the birth of several dedicated frameworks, although the fundamental principle behind this evolution remains surprisingly simple.
