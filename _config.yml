@@ -1,6 +1,7 @@
 title: Ettore Delprino
 author: ""
 email: edelprino@gmail.com
+description: Developer. Climber. Minimalist.
 # description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://edelprino.com" # the base hostname & protocol for your site, e.g. http://example.com
