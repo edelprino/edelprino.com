@@ -20,7 +20,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-collections:
-  newsletters:
-    output: true
-
