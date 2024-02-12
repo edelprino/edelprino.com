@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f3debd6be6067b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43c1b852cb8f77c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995a89bcdfc78e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79c3c5fb1d2315e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "582e27079397882f",
+    "type": "split",
+    "children": [
+      {
+        "id": "660335ad6d431078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81add7b10449e1c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "166e68327796be5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37accde1e2a847ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "1272c5a6b81b71ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "7162cb7ca23ddb15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074a6d8cc485f480",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e53bbfbd0637a1b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b516faa83546b057",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "289e76fd066cdb91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md"
+              }
+            }
+          },
+          {
+            "id": "52140417475bf958",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 627.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "995a89bcdfc78e2f",
+  "lastOpenFiles": [
+    "_posts/2024-02-06-from-the-prompt-to-ai-agents-part-one.md",
+    "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+    "chi-sono.md",
+    "_site/chi-sono.html",
+    "_drafts/climber.md",
+    "_site/developer.html",
+    "_posts/2015-11-25-da-quando-ho-smesso-di-commentare-il-codice.md",
+    "index.md",
+    "_site/chi-sono.md",
+    "_site/Untitled.md",
+    "_site/robots.txt",
+    "robots.txt",
+    "_site/sitemap.xml",
+    "sitemap.xml",
+    "_posts/2021-03-30-scalare-sestri-levante-mannara.md",
+    "_posts/2020-08-15-scalare-in-val-graveglia-nascio.md",
+    "_posts/2020-08-15-migliori-falesie-provincia-di-genova-primavera-estate.md",
+    "_site/assets/posts/nascio-nahuel.jpeg",
+    "_site/assets/posts/nascio-falesia.jpeg",
+    "_site/assets/posts/mannara-vista.jpeg",
+    "_site/assets/posts/mannara-topo.jpg",
+    "_site/assets/posts/mannara-me.jpeg",
+    "_site/assets/posts/mannara-climbing.jpeg",
+    "_site/assets/css/styles.css.map",
+    "_site/assets/css/styles.css",
+    "_site/assets/posts",
+    "_site/assets/millenium.jpg",
+    "_site/assets/me.jpg",
+    "_site/assets/kaizen.jpeg",
+    "_site/assets/css",
+    "_posts/2024-02-07-dal-prompt-agli-agenti-parte-due.md",
+    "_drafts/2023-11-12-tassellatore-quale-comprare.md",
+    "climber.md",
+    "nerd.md",
+    "_posts/Untitled.md",
+    "_drafts/2023-11-12-quanto-costa-una-falesia.md"
+  ]
+}
