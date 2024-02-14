@@ -51,7 +51,7 @@ By integrating instructions on how the output should be formatted and passing a 
 
 OpenAI has recently introduced a revolutionary feature called [Function calling](https://platform.openai.com/docs/guides/function-calling), which greatly expands the potential of our functions. This innovation allows responses to include not only text but also specific instructions to execute functions defined by the user. In practice, you tell the agent what to do and what tools it has at its disposal, and then, following the principle of "you tell me what to do and I do it," the model communicates the calls to be made and with which arguments, at which point we execute the code in a brainless manner using the provided parameters.
 
-```
+```python
 def sql_query_manager(request: str) -> str:
     try:
         response = client.chat.completions.create(
@@ -74,7 +74,6 @@ def sql_query_manager(request: str) -> str:
         )
 
         if response.choices[0].finish_reason == "tool_calls":
-            print(response.choices[0].message.tool_calls[0].function.arguments)
             arguments = json.loads(response.choices[0].message.tool_calls[0].function.arguments)
             return execute_query(arguments["query"])
 

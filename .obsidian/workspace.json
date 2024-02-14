@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f43c1b852cb8f77c",
+        "id": "715b00605b37df60",
         "type": "tabs",
         "children": [
           {
-            "id": "995a89bcdfc78e2f",
+            "id": "ae5b028c0657ea1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c3c5fb1d2315e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+                "file": "_posts/2024-02-14-from-the-prompt-to-ai-agents-part-two.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+                "file": "_posts/2024-02-14-from-the-prompt-to-ai-agents-part-two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+                "file": "_posts/2024-02-14-from-the-prompt-to-ai-agents-part-two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md"
+                "file": "_posts/2024-02-14-from-the-prompt-to-ai-agents-part-two.md"
               }
             }
           },
@@ -154,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 627.5
+    "width": 627.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +156,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "995a89bcdfc78e2f",
+  "active": "ae5b028c0657ea1d",
   "lastOpenFiles": [
+    "_site/from-the-prompt-to-ai-agents-part-two.html",
     "_posts/2024-02-06-from-the-prompt-to-ai-agents-part-one.md",
-    "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
+    "_posts/2024-02-14-from-the-prompt-to-ai-agents-part-two.md",
     "chi-sono.md",
     "_site/chi-sono.html",
     "_drafts/climber.md",
