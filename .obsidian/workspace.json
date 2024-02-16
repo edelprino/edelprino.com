@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-06-from-the-prompt-to-ai-agents-part-one.md",
+                "file": "_posts/2024-02-14-dal-prompt-agli-agenti-seconda-parte.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-06-from-the-prompt-to-ai-agents-part-one.md",
+                "file": "_posts/2024-02-14-dal-prompt-agli-agenti-seconda-parte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-06-from-the-prompt-to-ai-agents-part-one.md",
+                "file": "_posts/2024-02-14-dal-prompt-agli-agenti-seconda-parte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-06-from-the-prompt-to-ai-agents-part-one.md"
+                "file": "_posts/2024-02-14-dal-prompt-agli-agenti-seconda-parte.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 659.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +157,12 @@
   },
   "active": "995a89bcdfc78e2f",
   "lastOpenFiles": [
+    "_posts/2024-02-06-dal-prompt-agli-agenti-prima-parte.md",
+    "_posts/2024-02-14-dal-prompt-agli-agenti-seconda-parte.md",
+    "_site/dal-prompt-agli-agenti-seconda-parte.html",
+    "_site/dal-prompt-agli-agenti-prima-parte.html",
+    "2024-02-16.md",
     "_site/from-the-prompt-to-ai-agents-part-two.html",
-    "_posts/2024-02-14-from-the-prompt-to-ai-agents-part-two.md",
     "_drafts/2024-02-08-dal-prompt-agli-agenti-parte-due.md",
     "_site/assets/css/styles.css.map",
     "_site/assets/css/styles.css",
@@ -167,11 +171,8 @@
     "_site/scalare-sestri-levante-mannara.html",
     "_site/scalare-in-val-graveglia-nascio.html",
     "_site/robots.txt",
-    "_site/migliori-falesie-provincia-di-genova-primavera-estate.html",
-    "_site/index.html",
     "chi-sono.md",
     "index.md",
-    "_posts/2024-02-06-from-the-prompt-to-ai-agents-part-one.md",
     "_drafts/climber.md",
     "_posts/2015-11-25-da-quando-ho-smesso-di-commentare-il-codice.md",
     "_site/chi-sono.md",
